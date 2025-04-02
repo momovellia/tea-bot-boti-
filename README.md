@@ -17,7 +17,7 @@ npm install
 ### 3. Konfigurasi Private Key
 edit `.env` tambahkan private key Ethereum Anda:
 ```sh
-PRIVATE_KEY=your_private_key_here
+PRIVATE_KEY=masukin private key nya disini woi
 ```
 **Peringatan:** Jangan pernah membagikan private key Anda kepada siapa pun!
 
