@@ -5,7 +5,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan skrip:
 
 ### 1. Clone Repository
 ```sh
-git clone https://github.com/yogiprayoga1313/Tea-auto.git
+git clone https://github.com/momovellia/tea-bot-boti-.git
 cd Tea-auto
 ```
 
